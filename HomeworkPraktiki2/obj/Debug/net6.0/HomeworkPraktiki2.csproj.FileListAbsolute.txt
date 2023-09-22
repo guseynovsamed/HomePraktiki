@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\bin\Debug\net6.0\HomeworkPraktiki2.exe
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\bin\Debug\net6.0\HomeworkPraktiki2.deps.json
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\bin\Debug\net6.0\HomeworkPraktiki2.runtimeconfig.json
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\bin\Debug\net6.0\HomeworkPraktiki2.dll
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\bin\Debug\net6.0\HomeworkPraktiki2.pdb
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\HomeworkPraktiki2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\HomeworkPraktiki2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\HomeworkPraktiki2.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\HomeworkPraktiki2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\HomeworkPraktiki2.dll
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\refint\HomeworkPraktiki2.dll
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\HomeworkPraktiki2.pdb
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\HomeworkPraktiki2.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Methods C#\HomeworkPraktiki2\HomeworkPraktiki2\obj\Debug\net6.0\ref\HomeworkPraktiki2.dll
